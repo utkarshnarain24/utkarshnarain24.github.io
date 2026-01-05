@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Exit, voice, and loyalty in Indian cities"
-subtitle: "Escaping the city within the city
-date: 2024-05-20 12:00:00 +0530
+subtitle: "Escaping the city within the city"
+date: 2025-03-22 
 ---
-<!-- # Exit, voice, and loyalty in Indian cities -->
-<!-- *Escaping the city within the city* -->
+
 
 Albert O Hirschman [wrote in 1970](https://www.amazon.in/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604) that people make either of two choices when they observe decline in a group. These choices are exit (leave the group) or voice (express discontent, raise opinions, propose solutions and persuade other members/leaders). This dissatisfaction could be because of deterioration in any type of group - firms, organisations, or nation-states. 
 
